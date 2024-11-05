@@ -8,3 +8,7 @@
 ```
 System.out.println("Hi!")
 ```
+- [x] Learn to use headers
+- [x] Learn to put images
+- [x] Learn to put codes
+- [x] Learn to put tasks
